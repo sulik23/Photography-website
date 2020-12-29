@@ -1,0 +1,99 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	overflow: visible;
+	background-color: #000000;
+	background-image: url(../Photos/photo-resized.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+
+	
+
+}
+
+#photo {
+	
+
+}
+
+
+
+.container{
+	display: flex;
+	min-height: 110vh;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	
+
+}
+
+.content h2{
+	
+
+	color: #ffffff;
+	font-family: 'Roboto',"Dancing Script", cursive;
+	font-size: 4.3rem;
+	margin-bottom: 0.8rem;
+	text-transform: uppercase;
+	opacity: 0.8;
+	
+	
+}
+
+.content p{
+	font-family: 'Roboto',"Dancing Script", cursive;
+	color: rgb(255, 255, 255);
+	font-weight: 5000;
+	font-size: 1.3rem;
+	position: relative;
+top: 200px;
+opacity: 0.5;
+	text-shadow: 4px 4px 4px rgb(255, 255, 255);
+
+  
+  
+	
+	
+}
+
+
+
+/* glowing text
+@keyframes glow {
+	from {
+		text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #ffffff, 0 0 30px #ffffff, 0 0 40px #ffffff, 0 0 50px #ffffff, 0 0 60px #ffffff;
+	  }
+	  
+	  to {
+		text-shadow: 0 0 40px #fff, 0 0 50px #ffffff, 0 0 60px #ffffff, 0 0 70px #ffffff, 0 0 80px #ffffff, 0 0 90px #ffffff, 0 0 100px #ffffff;
+	  }
+}
+@-webkit-keyframes glow {
+	from {
+	  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+	}
+	
+	to {
+	  text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+	}
+  } */
+
+
+  /* .glow {
+	text-align: center;
+	-webkit-animation: glow 1s ease-in-out infinite alternate;
+	-moz-animation: glow 1s ease-in-out infinite alternate;
+	animation: glow 1s ease-in-out infinite alternate;
+	animation-duration: 1s;
+	animation-duration: infinite;
+  } */
+  
+  
+
+  
