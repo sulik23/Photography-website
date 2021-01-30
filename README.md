@@ -1,2 +1,2 @@
-# Photography-website
+- Photography website
 potrfolio
