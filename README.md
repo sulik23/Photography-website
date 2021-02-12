@@ -1,2 +1,1 @@
-- Photography website
-potrfolio
+- Photography portfolio website
